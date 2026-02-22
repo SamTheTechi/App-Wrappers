@@ -5,6 +5,7 @@ Small, focused Tauri wrappers for popular web apps. Each wrapper loads a single 
 ## Included Apps
 - `X` — wrapper for `https://x.com`
 - `YouTube` — wrapper for `https://youtube.com`
+- `Whatsapp` - wrapper for `https://whatsapp.com`
 
 ## Requirements
 - Rust toolchain
